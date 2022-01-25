@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203905885282",
+    "project_id": "fireapp-24bbc",
+    "storage_bucket": "fireapp-24bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203905885282:android:ec87ccc0866c2271435d3b",
+        "android_client_info": {
+          "package_name": "is.gravendef.fireimag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203905885282-2hns4mvqphthce2aq544kmdd7shpq2s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Jfyal8TeSbvPtwN1CzNIFhMLWHwJpdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203905885282-2hns4mvqphthce2aq544kmdd7shpq2s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
